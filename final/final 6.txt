@@ -1,0 +1,4 @@
+1. http://docs.mongodb.org/manual/faq/fundamentals/
+2. http://docs.mongodb.org/manual/tutorial/isolate-sequence-of-operations/
+3. http://www.mongodb.com/presentations/mongodbs-storage-engine-bit-bit
+4. http://docs.mongodb.org/manual/reference/bson-types/
